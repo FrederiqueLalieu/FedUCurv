@@ -1,0 +1,11 @@
+BPI_Challenge_2019.xes
+*/
+partitions.pkl
+train_data.pkl
+test_data.pkl
+raw_data.pkl
+raw_test_data.pkl
+raw_train_data.pkl
+split_audit.json
+preprocessing_audit.json
+feature_metadata.json
