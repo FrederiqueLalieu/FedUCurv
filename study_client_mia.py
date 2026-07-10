@@ -338,8 +338,6 @@ def main():
     hessian and summaries
     * data-dir       : Should contain the training and testing data
 
-    What it does:
-
     """
     args = parse_args()
     experiment_dir = Path(args.experiment_dir)
